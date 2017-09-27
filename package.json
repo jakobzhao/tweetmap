@@ -6,8 +6,8 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "*",
-    "twitter": "*",
-    "socket.io": "*"
+    "express": "4.15.5",
+    "twitter": "1.7.1",
+    "socket.io": "2.0.3"
   }
 }
